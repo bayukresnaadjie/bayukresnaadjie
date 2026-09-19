@@ -2,7 +2,7 @@
 
 # Hi there, I'm Bayu Kresna Adjie 👋
 
-### Laravel Developer · Full-Stack Engineer · Open Source Enthusiast
+### Laravel Developer · Web Developer · Full-Stack Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bayukresnaadjie.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bayukresnaadjie)
@@ -65,7 +65,6 @@ I'm a **Laravel developer** with 3+ years of experience building scalable web ap
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bayukresnaadjie&theme=default&hide_border=true)](https://github.com/bayukresnaadjie)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bayukresnaadjie&layout=compact&theme=default&hide_border=true&langs_count=6)](https://github.com/bayukresnaadjie)
 
 </div>
 
